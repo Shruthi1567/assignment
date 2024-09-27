@@ -1,0 +1,21 @@
+img{
+    width:150px;
+    height:80px;
+   border-radius: 8px;
+   border: none;
+    
+}
+.headerpart{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    align-items:center;
+    background-color: rgb(147, 141, 141);
+}
+.headerpart a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+}
+.headerpart a:active{
+    color:rgb(246, 132, 10);
+}
