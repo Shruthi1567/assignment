@@ -60,3 +60,6 @@ h1:active{
 strike{
     color: rgb(225, 19, 19);
 }
+ul li{
+    list-style-type:none;
+}

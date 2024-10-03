@@ -1,3 +1,4 @@
+
 const products = [
     // Electronics Products (10 items)
     {
@@ -328,5 +329,6 @@ const products = [
     
     
 ];
+
 export default products;
   
